@@ -14,6 +14,7 @@ https://raw.githubusercontent.com/rubyzhao666/dsh-plugins-market/main/index.json
 ## 最新版本
 
 
+- **v0.5.0（2026-11-06）**：三个插件左侧栏页全部重做为工作台式界面（TubeInsight 视频工作台 / PRD Creator 项目工作台 / Paper2HTML 论文库），主题自适应、搜索筛选、动作按钮通过新会话执行
 - **v0.4.3 / v0.4.1（2026-11-06）**：左侧栏名称改为产品名（TubeInsight / Paper2HTML / PRD Creator）
 - **v0.4.2 / v0.4.0（2026-11-06）**：三个插件统一换新图标；PRD Creator 新增左侧栏「PRD 项目」入口（三个插件现在都带左侧栏）
 - **v0.4.1 / v0.3.3（2026-11-06）**：三个插件描述统一加品牌前缀「Ruby 出品 · DSH 插件：…」（无功能变更）

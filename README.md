@@ -10,6 +10,15 @@ https://raw.githubusercontent.com/rubyzhao666/dsh-plugins-market/main/index.json
 
 在 DSH 里打开 **Plugins → Discover → 添加索引源**（或 Settings 里的插件市场设置），填入上面的 URL 即可看到这三个插件并安装。
 
+
+## 最新版本
+
+- **v0.2.0（2026-11-06）**
+  - `dsh-tube-insight`：新增 `tube_search` 跨视频检索 + skill 回忆/综述工作流
+  - `dsh-prd-generator`：新增假设与待确认问题账本（三产物同步 + prd_check 硬规则）
+  - `dsh-paper2html`：新增页面内批注/高亮 + 带批注导出分享
+- v0.1.0（2026-11-06）：三个插件的首个发布版本
+
 ## 插件
 
 | 插件 | 说明 | 仓库 |

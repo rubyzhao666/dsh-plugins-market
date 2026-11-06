@@ -43,7 +43,7 @@
         "en": "By Ruby · DSH plugin: Fetch YouTube native/auto captions as readable semantic segments, then turn videos into cited Markdown notes, product intel, insights and PRD drafts with [MM:SS] timestamps.",
         "zh": "Ruby 出品 · DSH 插件：抓取 YouTube 原生/自动字幕并整理成语义分段，把视频变成可读笔记、产品情报、洞察与 PRD，导出带 [MM:SS] 时间戳引用的 Markdown。"
       },
-      "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IlR1YmVJbnNpZ2h0Ij4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0idGktcGxheSIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiNmZjViNGEiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjZmY5YTNjIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJ0aS1iZyIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiMxNDE2MWQiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMGMwZDEyIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCIgcng9IjMwIiBmaWxsPSJ1cmwoI3RpLWJnKSIvPgogIDxjaXJjbGUgY3g9IjU4IiBjeT0iNjYiIHI9IjI4IiBmaWxsPSJ1cmwoI3RpLXBsYXkpIi8+CiAgPHBhdGggZD0iTTUwIDUxIEw3NiA2NiBMNTAgODEgWiIgZmlsbD0iI2ZmZiIvPgogIDxnIHN0cm9rZT0iI2ZmZDE2NiIgc3Ryb2tlLXdpZHRoPSI0LjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI+CiAgICA8cGF0aCBkPSJNOTIgMzYgTDEwMSAyNyIvPgogICAgPHBhdGggZD0iTTk4IDU2IEwxMTAgNTQiLz4KICAgIDxwYXRoIGQ9Ik05MiA3NiBMMTAxIDg1Ii8+CiAgPC9nPgogIDxjaXJjbGUgY3g9IjEwMSIgY3k9IjI3IiByPSIzLjUiIGZpbGw9IiNmZmQxNjYiLz4KICA8Y2lyY2xlIGN4PSIxMTAiIGN5PSI1NCIgcj0iMy41IiBmaWxsPSIjZmZkMTY2Ii8+CiAgPGNpcmNsZSBjeD0iMTAxIiBjeT0iODUiIHI9IjMuNSIgZmlsbD0iI2ZmZDE2NiIvPgo8L3N2Zz4K",
+      "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IlR1YmVJbnNpZ2h0Ij4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0idGktYmciIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMTcxYzI3Ii8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMGEwZDEzIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJ0aS1hY2NlbnQiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjZmY2YjRhIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjZmZiMDIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPHJhZGlhbEdyYWRpZW50IGlkPSJ0aS1nbG93IiBjeD0iMC41IiBjeT0iMC4xMiIgcj0iMC43NSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iI2ZmNmI0YSIgc3RvcC1vcGFjaXR5PSIuMzAiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNmZjZiNGEiIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjEyOCIgaGVpZ2h0PSIxMjgiIHJ4PSIyOCIgZmlsbD0idXJsKCN0aS1iZykiLz4KICA8cmVjdCB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCIgcng9IjI4IiBmaWxsPSJ1cmwoI3RpLWdsb3cpIi8+CiAgPHJlY3QgeD0iMC43NSIgeT0iMC43NSIgd2lkdGg9IjEyNi41IiBoZWlnaHQ9IjEyNi41IiByeD0iMjcuMjUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLW9wYWNpdHk9Ii4wNyIvPgogIDxjaXJjbGUgY3g9IjY0IiBjeT0iNTgiIHI9IjI1IiBmaWxsPSJub25lIiBzdHJva2U9InVybCgjdGktYWNjZW50KSIgc3Ryb2tlLXdpZHRoPSI2Ii8+CiAgPHBhdGggZD0iTTU3LjUgNDYuNSA3OCA1OCA1Ny41IDY5LjVaIiBmaWxsPSIjZmZmZmZmIi8+CiAgPHBhdGggZD0iTTk0IDI3bDIuMiA1LjggNS44IDIuMi01LjggMi4yTDk0IDQzbC0yLjItNS44TDg2IDM1bDUuOC0yLjJaIiBmaWxsPSIjZmZiMDIwIiBmaWxsLW9wYWNpdHk9Ii45NSIvPgogIDxyZWN0IHg9IjM4IiB5PSI5NCIgd2lkdGg9IjIyIiBoZWlnaHQ9IjYiIHJ4PSIzIiBmaWxsPSJ1cmwoI3RpLWFjY2VudCkiLz4KICA8cmVjdCB4PSI2NiIgeT0iOTQiIHdpZHRoPSIxNCIgaGVpZ2h0PSI2IiByeD0iMyIgZmlsbD0iI2ZmZmZmZiIgZmlsbC1vcGFjaXR5PSIuNTUiLz4KICA8cmVjdCB4PSI4NiIgeT0iOTQiIHdpZHRoPSI2IiBoZWlnaHQ9IjYiIHJ4PSIzIiBmaWxsPSIjZmZmZmZmIiBmaWxsLW9wYWNpdHk9Ii4zMCIvPgo8L3N2Zz4K",
       "author": "rubyzhao666",
       "metadata": {
         "category": "tools",
@@ -57,12 +57,12 @@
       },
       "versions": [
         {
-          "version": "0.4.1",
-          "publishTimestamp": 1793937328,
+          "version": "0.4.2",
+          "publishTimestamp": 1793948802,
           "source": {
             "type": "git",
             "url": "https://github.com/rubyzhao666/dsh-tube-insight",
-            "commit": "5537e2963014956fba289c1deed2667f4974dfd0"
+            "commit": "dd63a273b74aa9f46f72c225cda79f9639b5ae50"
           },
           "engines": {
             "dsh": ">=0.2.1-rc.2 <0.3.0"
@@ -84,7 +84,7 @@
         "en": "By Ruby · DSH plugin: clarify -> insight analysis -> PRD -> ralph-compatible prd.json -> acceptance checklist. A bundled skill supplies the method; prd_write / prd_check do deterministic file output and strict validation.",
         "zh": "Ruby 出品 · DSH 插件：需求澄清 → 洞察分析 → PRD → prd.json（Ralph 兼容）→ 验收清单一条流水线：随包 skill 提供方法论，prd_write / prd_check 负责确定性落盘与严格校验。"
       },
-      "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IlBSRCBHZW5lcmF0b3IiPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJwcmQtYmciIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMTAxYTJlIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzBhMTAxYyIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0icHJkLXBhcGVyIiB4MT0iMCIgeTE9IjAiIHgyPSIwIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNlOGVlZjciLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4IiByeD0iMzAiIGZpbGw9InVybCgjcHJkLWJnKSIvPgogIDxyZWN0IHg9IjMwIiB5PSIyMCIgd2lkdGg9IjU2IiBoZWlnaHQ9Ijc2IiByeD0iOSIgZmlsbD0idXJsKCNwcmQtcGFwZXIpIi8+CiAgPGcgc3Ryb2tlPSIjOWFhOWJkIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI+CiAgICA8cGF0aCBkPSJNNDIgMzggSDc0Ii8+CiAgICA8cGF0aCBkPSJNNDIgNTIgSDY2Ii8+CiAgICA8cGF0aCBkPSJNNDIgNjYgSDc0Ii8+CiAgICA8cGF0aCBkPSJNNDIgODAgSDU4Ii8+CiAgPC9nPgogIDxjaXJjbGUgY3g9Ijg5IiBjeT0iODciIHI9IjIwIiBmaWxsPSIjMjJjNTVlIiBzdHJva2U9IiMwYTEwMWMiIHN0cm9rZS13aWR0aD0iNCIvPgogIDxwYXRoIGQ9Ik04MCA4NyBMODYuNSA5NCBMOTkgODAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSI1IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc+Cg==",
+      "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IlBSRCBDcmVhdG9yIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0icHItYmciIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMTcxYzI3Ii8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMGEwZDEzIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJwci1hY2NlbnQiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjNGY4Y2ZmIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMzRkMzk5Ii8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPHJhZGlhbEdyYWRpZW50IGlkPSJwci1nbG93IiBjeD0iMC41IiBjeT0iMC4xMiIgcj0iMC43NSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzRmOGNmZiIgc3RvcC1vcGFjaXR5PSIuMzAiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiM0ZjhjZmYiIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjEyOCIgaGVpZ2h0PSIxMjgiIHJ4PSIyOCIgZmlsbD0idXJsKCNwci1iZykiLz4KICA8cmVjdCB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCIgcng9IjI4IiBmaWxsPSJ1cmwoI3ByLWdsb3cpIi8+CiAgPHJlY3QgeD0iMC43NSIgeT0iMC43NSIgd2lkdGg9IjEyNi41IiBoZWlnaHQ9IjEyNi41IiByeD0iMjcuMjUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLW9wYWNpdHk9Ii4wNyIvPgogIDxyZWN0IHg9IjM0IiB5PSIyOCIgd2lkdGg9IjU0IiBoZWlnaHQ9IjcyIiByeD0iMTAiIGZpbGw9IiMxMDE1MWYiIHN0cm9rZT0idXJsKCNwci1hY2NlbnQpIiBzdHJva2Utd2lkdGg9IjMiLz4KICA8cmVjdCB4PSI0NCIgeT0iNDQiIHdpZHRoPSIzNCIgaGVpZ2h0PSI1IiByeD0iMi41IiBmaWxsPSIjZmZmZmZmIiBmaWxsLW9wYWNpdHk9Ii44NSIvPgogIDxyZWN0IHg9IjQ0IiB5PSI1OCIgd2lkdGg9IjI2IiBoZWlnaHQ9IjUiIHJ4PSIyLjUiIGZpbGw9InVybCgjcHItYWNjZW50KSIvPgogIDxyZWN0IHg9IjQ0IiB5PSI3MiIgd2lkdGg9IjMwIiBoZWlnaHQ9IjUiIHJ4PSIyLjUiIGZpbGw9IiNmZmZmZmYiIGZpbGwtb3BhY2l0eT0iLjQ1Ii8+CiAgPGNpcmNsZSBjeD0iOTAiIGN5PSI5MCIgcj0iMTUiIGZpbGw9IiMwZDEyMWIiIHN0cm9rZT0iIzM0ZDM5OSIgc3Ryb2tlLXdpZHRoPSIzIi8+CiAgPHBhdGggZD0iTTgzLjUgOTAuNSA4OCA5NSA5NyA4NSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMzRkMzk5IiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8L3N2Zz4K",
       "author": "rubyzhao666",
       "metadata": {
         "category": "workflow",
@@ -97,12 +97,12 @@
       },
       "versions": [
         {
-          "version": "0.3.3",
-          "publishTimestamp": 1793937342,
+          "version": "0.4.0",
+          "publishTimestamp": 1793948816,
           "source": {
             "type": "git",
             "url": "https://github.com/rubyzhao666/dsh-prd-generator",
-            "commit": "ba899d58aa68f85fbd4e12edcfdb5782b8b871ba"
+            "commit": "a37b6899d3ece5b4eb4435269fd700950a4a83b1"
           },
           "engines": {
             "dsh": ">=0.2.1-rc.2 <0.3.0"
@@ -124,7 +124,7 @@
         "en": "By Ruby · DSH plugin: Convert academic papers (local PDF or arXiv) into polished, shareable interactive HTML reading pages with three themes, navigation, formulas and figures. No API key required; optional AI summaries with a DeepSeek key.",
         "zh": "Ruby 出品 · DSH 插件：把学术论文（本地 PDF 或 arXiv）转成精美、可分享的交互式 HTML 阅读页：三套主题、目录导航、公式与图表。无需任何 API key；配置 DeepSeek key 可额外生成 AI 摘要。"
       },
-      "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IlBhcGVyMkhUTUwiPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJwMmgtYmciIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMWExMzBjIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzBmMGIwNyIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjEyOCIgaGVpZ2h0PSIxMjgiIHJ4PSIzMCIgZmlsbD0idXJsKCNwMmgtYmcpIi8+CiAgPHBhdGggZD0iTTM0IDIwIEg3MiBMOTQgNDIgVjEwMiBBNiA2IDAgMCAxIDg4IDEwOCBIMzQgQTYgNiAwIDAgMSAyOCAxMDIgVjI2IEE2IDYgMCAwIDEgMzQgMjAgWiIgZmlsbD0iI2ZkZjdlZSIvPgogIDxwYXRoIGQ9Ik03MiAyMCBMOTQgNDIgSDc4IEE2IDYgMCAwIDEgNzIgMzYgWiIgZmlsbD0iI2U3ZDdjMyIvPgogIDxnIHN0cm9rZT0iI2MyNDEwYyIgc3Ryb2tlLXdpZHRoPSI1IiBmaWxsPSJub25lIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPgogICAgPHBhdGggZD0iTTUwIDYyIEw0MCA3MiBMNTAgODIiLz4KICAgIDxwYXRoIGQ9Ik03NCA2MiBMODQgNzIgTDc0IDgyIi8+CiAgICA8cGF0aCBkPSJNNjggNTcgTDU2IDg3Ii8+CiAgPC9nPgo8L3N2Zz4K",
+      "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IlBhcGVyMkhUTUwiPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJwMi1iZyIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiMxNzFjMjciLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMwYTBkMTMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9InAyLWFjY2VudCIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiNhNzhiZmEiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiM2MGE1ZmEiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9InAyLWdsb3ciIGN4PSIwLjUiIGN5PSIwLjEyIiByPSIwLjc1Ij4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjYTc4YmZhIiBzdG9wLW9wYWNpdHk9Ii4zMCIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI2E3OGJmYSIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCIgcng9IjI4IiBmaWxsPSJ1cmwoI3AyLWJnKSIvPgogIDxyZWN0IHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4IiByeD0iMjgiIGZpbGw9InVybCgjcDItZ2xvdykiLz4KICA8cmVjdCB4PSIwLjc1IiB5PSIwLjc1IiB3aWR0aD0iMTI2LjUiIGhlaWdodD0iMTI2LjUiIHJ4PSIyNy4yNSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utb3BhY2l0eT0iLjA3Ii8+CiAgPHBhdGggZD0iTTM2IDMwaDQybDE2IDE2djUyYTggOCAwIDAgMS04IDhIMzZhOCA4IDAgMCAxLTgtOFYzOGE4IDggMCAwIDEgOC04WiIgZmlsbD0iIzEwMTUxZiIgc3Ryb2tlPSJ1cmwoI3AyLWFjY2VudCkiIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgogIDxwYXRoIGQ9Ik03OCAzMGwxNiAxNkg3OFoiIGZpbGw9InVybCgjcDItYWNjZW50KSIgZmlsbC1vcGFjaXR5PSIuODUiLz4KICA8cGF0aCBkPSJNNTEgNjJsLTggOCA4IDgiIGZpbGw9Im5vbmUiIHN0cm9rZT0idXJsKCNwMi1hY2NlbnQpIiBzdHJva2Utd2lkdGg9IjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgogIDxwYXRoIGQ9Ik03NSA2Mmw4IDgtOCA4IiBmaWxsPSJub25lIiBzdHJva2U9InVybCgjcDItYWNjZW50KSIgc3Ryb2tlLXdpZHRoPSI1IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KICA8cGF0aCBkPSJNNjggNThsLTggMjgiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLW9wYWNpdHk9Ii43NSIgc3Ryb2tlLXdpZHRoPSI0LjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDxyZWN0IHg9IjQ0IiB5PSI5NCIgd2lkdGg9IjQwIiBoZWlnaHQ9IjYiIHJ4PSIzIiBmaWxsPSIjZmJiZjI0IiBmaWxsLW9wYWNpdHk9Ii45Ii8+Cjwvc3ZnPgo=",
       "author": "rubyzhao666",
       "metadata": {
         "category": "academic",
@@ -138,12 +138,12 @@
       },
       "versions": [
         {
-          "version": "0.4.1",
-          "publishTimestamp": 1793937335,
+          "version": "0.4.2",
+          "publishTimestamp": 1793948809,
           "source": {
             "type": "git",
             "url": "https://github.com/rubyzhao666/dsh-paper2html",
-            "commit": "0e88bfbfaea37b4d35158e871f49091e9d3cdff2"
+            "commit": "8ee40b50870537bbcab2a7904d1902ddea06ba2d"
           },
           "engines": {
             "dsh": ">=0.2.1-rc.2 <0.3.0"

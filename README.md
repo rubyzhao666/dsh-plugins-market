@@ -14,6 +14,9 @@ https://raw.githubusercontent.com/rubyzhao666/dsh-plugins-market/main/index.json
 ## 最新版本
 
 
+- **v0.4.0（2026-11-06）**
+  - `dsh-tube-insight`：新增左侧栏「视频库」入口 + Host 只读视频库/转录页（搜索、时间戳、XSS 转义）
+  - `dsh-paper2html`：新增左侧栏「论文阅读」入口（iframe 复用 /paper2html/ 论文库页面）
 - **v0.3.2（2026-11-06）**
   - `dsh-prd-generator`：插件显示名改为 **PRD Creator**（Plugins 卡片 / 市场 / README / 生成的 PRD 页脚）；内部包名与 skill id 不变
 - **v0.3.1（2026-11-06）**

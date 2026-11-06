@@ -57,12 +57,12 @@
       },
       "versions": [
         {
-          "version": "0.3.1",
-          "publishTimestamp": 1793935962,
+          "version": "0.4.0",
+          "publishTimestamp": 1793937207,
           "source": {
             "type": "git",
             "url": "https://github.com/rubyzhao666/dsh-tube-insight",
-            "commit": "1feed6f7ed737f2fb6fb6b5616f8b6c39dee6e3e"
+            "commit": "7c003f159c7e816803d1c4011fb8c7223b54eef9"
           },
           "engines": {
             "dsh": ">=0.2.1-rc.2 <0.3.0"
@@ -138,12 +138,12 @@
       },
       "versions": [
         {
-          "version": "0.3.1",
-          "publishTimestamp": 1793935975,
+          "version": "0.4.0",
+          "publishTimestamp": 1793937214,
           "source": {
             "type": "git",
             "url": "https://github.com/rubyzhao666/dsh-paper2html",
-            "commit": "96ac0ee2d49f3bc4411f1dbf87c7dc16afa726bb"
+            "commit": "2c62d50ab413d108c06a76adf87bf84d51ec20b5"
           },
           "engines": {
             "dsh": ">=0.2.1-rc.2 <0.3.0"

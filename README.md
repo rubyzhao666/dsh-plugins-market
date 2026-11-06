@@ -14,6 +14,7 @@ https://raw.githubusercontent.com/rubyzhao666/dsh-plugins-market/main/index.json
 ## 最新版本
 
 
+- **v0.4.1 / v0.3.3（2026-11-06）**：三个插件描述统一加品牌前缀「Ruby 出品 · DSH 插件：…」（无功能变更）
 - **v0.4.0（2026-11-06）**
   - `dsh-tube-insight`：新增左侧栏「视频库」入口 + Host 只读视频库/转录页（搜索、时间戳、XSS 转义）
   - `dsh-paper2html`：新增左侧栏「论文阅读」入口（iframe 复用 /paper2html/ 论文库页面）

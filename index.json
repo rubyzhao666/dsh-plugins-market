@@ -5,8 +5,8 @@
     "zh": "rubyzhao666 DSH 插件"
   },
   "description": {
-    "en": "TubeInsight video insight, PRD Generator and Paper2HTML, ported to DeepSeek Harness as installable plugins.",
-    "zh": "TubeInsight 视频洞察、PRD 生成器、Paper2HTML 论文阅读页的 DSH 插件版。"
+    "en": "TubeInsight video insight, PRD Creator and Paper2HTML, ported to DeepSeek Harness as installable plugins.",
+    "zh": "TubeInsight 视频洞察、PRD Creator、Paper2HTML 论文阅读页的 DSH 插件版。"
   },
   "metadata": {
     "categories": {
@@ -77,12 +77,12 @@
     {
       "name": "dsh-prd-generator",
       "title": {
-        "en": "PRD Generator",
-        "zh": "PRD 生成器"
+        "en": "PRD Creator",
+        "zh": "PRD Creator"
       },
       "description": {
-        "en": "Clarify -> insight analysis -> PRD -> ralph-compatible prd.json -> acceptance checklist. A bundled skill supplies the method; prd_write / prd_check do deterministic file output and strict validation.",
-        "zh": "需求澄清 → 洞察分析 → PRD → prd.json（Ralph 兼容）→ 验收清单一条流水线：随包 skill 提供方法论，prd_write / prd_check 负责确定性落盘与严格校验。"
+        "en": "PRD Creator: clarify -> insight analysis -> PRD -> ralph-compatible prd.json -> acceptance checklist. A bundled skill supplies the method; prd_write / prd_check do deterministic file output and strict validation.",
+        "zh": "PRD Creator：需求澄清 → 洞察分析 → PRD → prd.json（Ralph 兼容）→ 验收清单一条流水线：随包 skill 提供方法论，prd_write / prd_check 负责确定性落盘与严格校验。"
       },
       "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IlBSRCBHZW5lcmF0b3IiPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJwcmQtYmciIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMTAxYTJlIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzBhMTAxYyIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0icHJkLXBhcGVyIiB4MT0iMCIgeTE9IjAiIHgyPSIwIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNlOGVlZjciLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4IiByeD0iMzAiIGZpbGw9InVybCgjcHJkLWJnKSIvPgogIDxyZWN0IHg9IjMwIiB5PSIyMCIgd2lkdGg9IjU2IiBoZWlnaHQ9Ijc2IiByeD0iOSIgZmlsbD0idXJsKCNwcmQtcGFwZXIpIi8+CiAgPGcgc3Ryb2tlPSIjOWFhOWJkIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI+CiAgICA8cGF0aCBkPSJNNDIgMzggSDc0Ii8+CiAgICA8cGF0aCBkPSJNNDIgNTIgSDY2Ii8+CiAgICA8cGF0aCBkPSJNNDIgNjYgSDc0Ii8+CiAgICA8cGF0aCBkPSJNNDIgODAgSDU4Ii8+CiAgPC9nPgogIDxjaXJjbGUgY3g9Ijg5IiBjeT0iODciIHI9IjIwIiBmaWxsPSIjMjJjNTVlIiBzdHJva2U9IiMwYTEwMWMiIHN0cm9rZS13aWR0aD0iNCIvPgogIDxwYXRoIGQ9Ik04MCA4NyBMODYuNSA5NCBMOTkgODAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSI1IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc+Cg==",
       "author": "rubyzhao666",
@@ -97,12 +97,12 @@
       },
       "versions": [
         {
-          "version": "0.3.1",
-          "publishTimestamp": 1793935969,
+          "version": "0.3.2",
+          "publishTimestamp": 1793936204,
           "source": {
             "type": "git",
             "url": "https://github.com/rubyzhao666/dsh-prd-generator",
-            "commit": "8987ce62e0c909f8eabb514b5ae0f5f541b89280"
+            "commit": "34ecdc315b34792818441bcd5058d70f3dcbd947"
           },
           "engines": {
             "dsh": ">=0.2.1-rc.2 <0.3.0"

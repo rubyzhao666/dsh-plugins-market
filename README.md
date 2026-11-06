@@ -14,6 +14,8 @@ https://raw.githubusercontent.com/rubyzhao666/dsh-plugins-market/main/index.json
 ## 最新版本
 
 
+- **v0.3.2（2026-11-06）**
+  - `dsh-prd-generator`：插件显示名改为 **PRD Creator**（Plugins 卡片 / 市场 / README / 生成的 PRD 页脚）；内部包名与 skill id 不变
 - **v0.3.1（2026-11-06）**
   - 三个插件：随包 skill 与 README 改为「用户原话触发」，明确不用记工具名（无代码逻辑变更）
 - **v0.3.0（2026-11-06）**

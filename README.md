@@ -1,0 +1,47 @@
+# ruby zhao's DSH plugins（format-1 市场索引）
+
+三个为 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 开发的插件，可以通过本仓库的 format-1 索引一键发现和安装。
+
+**索引地址**：
+
+```
+https://raw.githubusercontent.com/rubyzhao666/dsh-plugins-market/main/index.json
+```
+
+在 DSH 里打开 **Plugins → Discover → 添加索引源**（或 Settings 里的插件市场设置），填入上面的 URL 即可看到这三个插件并安装。
+
+## 插件
+
+| 插件 | 说明 | 仓库 |
+|---|---|---|
+| `dsh-tube-insight` | YouTube 链接 → 带 `[MM:SS]` 引用的洞察 / 产品情报 / PRD / 多视频对比 / 知识卡片；不需要 Chrome 扩展，不需要 Supadata key | https://github.com/rubyzhao666/dsh-tube-insight |
+| `dsh-prd-generator` | 需求澄清 → PRD → ralph 兼容 `prd.json` → 验收清单，5 个文件一次生成并严格校验 | https://github.com/rubyzhao666/dsh-prd-generator |
+| `dsh-paper2html` | arXiv / PDF → 单文件交互式 HTML 阅读页（三主题、可分享），无 API key 可跑 | https://github.com/rubyzhao666/dsh-paper2html |
+
+## 手动安装
+
+```bash
+# 方式 1：在 DSH 对话里让 agent 安装（推荐）
+#   "从这个仓库安装 ..." 或直接给 plugin_manager 的 install_bundle 目标：
+#   git+https://github.com/rubyzhao666/dsh-tube-insight.git#<commit>
+# 方式 2：拿到仓库后，用本地目录安装
+plugin_manager { action: "install_bundle", target: "/path/to/dsh-tube-insight" }
+```
+
+## 索引格式
+
+本文件是 `@deepseek-ai/dsh-plugin-market-index` 的 **format 1** 索引，每个版本用 commit 锁定 git 源：
+
+```json
+{
+  "format": 1,
+  "title": { "en": "...", "zh": "..." },
+  "plugins": [ { "name": "dsh-tube-insight", "versions": [ { "version": "0.1.0", "source": { "type": "git", "url": "https://github.com/rubyzhao666/dsh-tube-insight", "commit": "<40-hex>" } } ] } ]
+}
+```
+
+版本更新流程：插件仓库打 tag 发版 → 更新本仓库 `index.json` 里的 `version` / `publishTimestamp` / `commit`。
+
+## 许可
+
+MIT。三个插件均基于 ruby zhao 的上游项目（MIT）改造，版权与来源见各自仓库的 `LICENSE` 与 README。

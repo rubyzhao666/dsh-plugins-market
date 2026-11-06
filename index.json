@@ -57,12 +57,12 @@
       },
       "versions": [
         {
-          "version": "0.3.0",
-          "publishTimestamp": 1793934104,
+          "version": "0.3.1",
+          "publishTimestamp": 1793935962,
           "source": {
             "type": "git",
             "url": "https://github.com/rubyzhao666/dsh-tube-insight",
-            "commit": "c713835bd795cca9b8509ff6797e11667e17bce8"
+            "commit": "1feed6f7ed737f2fb6fb6b5616f8b6c39dee6e3e"
           },
           "engines": {
             "dsh": ">=0.2.1-rc.2 <0.3.0"
@@ -97,12 +97,12 @@
       },
       "versions": [
         {
-          "version": "0.3.0",
-          "publishTimestamp": 1793934111,
+          "version": "0.3.1",
+          "publishTimestamp": 1793935969,
           "source": {
             "type": "git",
             "url": "https://github.com/rubyzhao666/dsh-prd-generator",
-            "commit": "901306bb9c13c29f6aff4c30ea18d00135f02f90"
+            "commit": "8987ce62e0c909f8eabb514b5ae0f5f541b89280"
           },
           "engines": {
             "dsh": ">=0.2.1-rc.2 <0.3.0"
@@ -138,12 +138,12 @@
       },
       "versions": [
         {
-          "version": "0.3.0",
-          "publishTimestamp": 1793934118,
+          "version": "0.3.1",
+          "publishTimestamp": 1793935975,
           "source": {
             "type": "git",
             "url": "https://github.com/rubyzhao666/dsh-paper2html",
-            "commit": "f6211ebedf437e1bf133fe9838df33220cea4c2d"
+            "commit": "96ac0ee2d49f3bc4411f1dbf87c7dc16afa726bb"
           },
           "engines": {
             "dsh": ">=0.2.1-rc.2 <0.3.0"

@@ -14,6 +14,8 @@ https://raw.githubusercontent.com/rubyzhao666/dsh-plugins-market/main/index.json
 ## 最新版本
 
 
+- **v0.3.1（2026-11-06）**
+  - 三个插件：随包 skill 与 README 改为「用户原话触发」，明确不用记工具名（无代码逻辑变更）
 - **v0.3.0（2026-11-06）**
   - `dsh-tube-insight`：新增 `tube_synthesis` 主题综述证据底稿（多词检索合并、按视频分组、可一键落盘）
   - `dsh-prd-generator`：新增 `prd_handoff` 执行前门禁 + 六章 handoff.md（交给 Ralph / coding agent 前的人审门）

@@ -14,6 +14,7 @@ https://raw.githubusercontent.com/rubyzhao666/dsh-plugins-market/main/index.json
 ## 最新版本
 
 
+- **v0.5.2（2026-11-10）**：密钥安全回归测试 + 「不消耗作者 key」说明（无功能变更）
 - **v0.5.1（2026-11-06）**：侧栏工作台的动作提示词改为小白可读（去掉工具名/文件名/术语）
 - **v0.5.0（2026-11-06）**：三个插件左侧栏页全部重做为工作台式界面（TubeInsight 视频工作台 / PRD Creator 项目工作台 / Paper2HTML 论文库），主题自适应、搜索筛选、动作按钮通过新会话执行
 - **v0.4.3 / v0.4.1（2026-11-06）**：左侧栏名称改为产品名（TubeInsight / Paper2HTML / PRD Creator）
